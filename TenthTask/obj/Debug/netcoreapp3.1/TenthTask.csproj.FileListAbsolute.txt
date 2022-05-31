@@ -1,0 +1,14 @@
+C:\Users\Илья\source\repos\TenthTask\TenthTask\bin\Debug\netcoreapp3.1\TenthTask.exe
+C:\Users\Илья\source\repos\TenthTask\TenthTask\bin\Debug\netcoreapp3.1\TenthTask.deps.json
+C:\Users\Илья\source\repos\TenthTask\TenthTask\bin\Debug\netcoreapp3.1\TenthTask.runtimeconfig.json
+C:\Users\Илья\source\repos\TenthTask\TenthTask\bin\Debug\netcoreapp3.1\TenthTask.runtimeconfig.dev.json
+C:\Users\Илья\source\repos\TenthTask\TenthTask\bin\Debug\netcoreapp3.1\TenthTask.dll
+C:\Users\Илья\source\repos\TenthTask\TenthTask\bin\Debug\netcoreapp3.1\TenthTask.pdb
+C:\Users\Илья\source\repos\TenthTask\TenthTask\obj\Debug\netcoreapp3.1\TenthTask.csproj.AssemblyReference.cache
+C:\Users\Илья\source\repos\TenthTask\TenthTask\obj\Debug\netcoreapp3.1\TenthTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\source\repos\TenthTask\TenthTask\obj\Debug\netcoreapp3.1\TenthTask.AssemblyInfoInputs.cache
+C:\Users\Илья\source\repos\TenthTask\TenthTask\obj\Debug\netcoreapp3.1\TenthTask.AssemblyInfo.cs
+C:\Users\Илья\source\repos\TenthTask\TenthTask\obj\Debug\netcoreapp3.1\TenthTask.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\TenthTask\TenthTask\obj\Debug\netcoreapp3.1\TenthTask.dll
+C:\Users\Илья\source\repos\TenthTask\TenthTask\obj\Debug\netcoreapp3.1\TenthTask.pdb
+C:\Users\Илья\source\repos\TenthTask\TenthTask\obj\Debug\netcoreapp3.1\TenthTask.genruntimeconfig.cache
